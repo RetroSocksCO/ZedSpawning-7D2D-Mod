@@ -5,7 +5,7 @@
 * All resources used are available in the vanilla client and retain core values.
 
 # Function
-* Controls Max Zombie Spawn Count, as well as Spawn Delay. (All Biomes)
+* Controls Max Zed Spawn Count, as well as Respawn Delay. (All Biomes)
 * Doesn't change or alter Blood Moon Zed Count.
 
 # Settings
