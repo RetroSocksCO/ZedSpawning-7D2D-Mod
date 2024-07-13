@@ -1,6 +1,6 @@
 # ZedSpawning
 
-* A 7 Days to Die V 1.0 (b316) Experimental Mod.
+* A 7 Days to Die V 1.0 (b317) Experimental Mod.
 * Client, Server, and EAC-friendly Mod.
 * All resources used are available in the vanilla client and retain core values.
 
@@ -17,3 +17,6 @@ The Fun Pimps and 7 Days to Die
 
 # Author
 therealburnstein of RetroSocks.co
+
+# YouTube
+https://www.youtube.com/@retrosocksco
