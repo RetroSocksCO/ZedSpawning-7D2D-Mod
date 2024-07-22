@@ -1,6 +1,6 @@
 # ZedSpawning
 
-* A 7 Days to Die V 1.0 (b317) Experimental Mod.
+* A 7 Days to Die V 1.0 (b328) Experimental Mod.
 * Client, Server, and EAC-friendly Mod.
 * All resources used are available in the vanilla client and retain core values.
 
